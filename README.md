@@ -1,5 +1,3 @@
-# Welcome!
-
 <h1 align="center">Hi 👋, I'm Javier Alejandro Castro Velazquez</h1>
 <h3 align="center">A passionate frontend developer from Zapopan, Jalisco, México</h3>
 
