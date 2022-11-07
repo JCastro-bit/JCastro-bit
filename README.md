@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/javier_cast27" target="blank"><img src="https://img.shields.io/twitter/follow/javier_cast27?logo=twitter&style=for-the-badge" alt="javier_cast27" /></a> </p>
 
-- 🔭 I’m currently working on [my freelance carrer](https://casttro.mx)
+- 🔭 I’m currently working on [my freelance career](https://casttro.mx)
 
 - 🌱 I’m currently learning **Angular Router: Lazy Loading and Modular Programming**
 
