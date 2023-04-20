@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Angular Router: Lazy Loading and Modular Programming**
 
+![man typing](https://casttro.mx/assets/img/marginalia-programming.gif)
+
+
 # 💫 About Me:
 Web developer and Zelda enthusiast, on a quest to create magical digital experiences. Also, a big fan of Led Zeppelin's rockin'🤘
 
