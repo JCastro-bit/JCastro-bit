@@ -1,6 +1,6 @@
 <img src="https://src.casttro.mx/git/banner-casttro.jpg" width="100%" alt="Casttro Banner">
 <h1 align="center">Hi 👋, I'm Javier Alejandro Castro Velazquez</h1>
-<h3 align="center">A passionate frontend developer from Zapopan, Jalisco, México</h3>
+<h3 align="center">A passionate Fullstack Developer from Zapopan, Jalisco, México</h3>
 <br/>
 
 
