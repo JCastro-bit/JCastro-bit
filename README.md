@@ -5,8 +5,7 @@
 
 
 # 💫 About Me:
-Web developer and Zelda enthusiast, on a quest to create magical digital experiences. Also, a big fan of Led Zeppelin's rockin'🤘
-
+I'm a passionate web developer with over 5 years of experience and a Zelda enthusiast, on a quest to create magical digital experiences. Additionally, I'm a huge fan of Led Zeppelin's rockin' tunes. 🤘
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javier27_cast) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-castro27) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Javier_Cast27) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JCastro-bit) 
