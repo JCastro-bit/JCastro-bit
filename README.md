@@ -63,13 +63,7 @@ Greetings! I'm a Full Stack Developer based in the vibrant city of Zapopan, Jali
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JCastro-bit&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-## 💭 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
+\
 ## 🌐 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-casttro.mx-FF4088?style=flat&logo=google-chrome&logoColor=white)](https://casttro.mx)
