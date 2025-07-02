@@ -45,6 +45,7 @@ Greetings! I'm a Full Stack Developer based in the vibrant city of Zapopan, Jali
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 ## 📈 GitHub Analytics
+![JCastro-bit github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=JCastro-bit)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JCastro-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
